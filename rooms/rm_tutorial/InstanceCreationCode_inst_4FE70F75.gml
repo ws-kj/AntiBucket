@@ -1,0 +1,1 @@
+text = "Press ESC to pause.";

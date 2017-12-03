@@ -1,0 +1,1 @@
+room_goto(rm_m_mm);

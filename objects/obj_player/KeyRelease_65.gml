@@ -1,0 +1,1 @@
+if(fill < 70) { sprite_index = spr_player_idle; } else { sprite_index = spr_player_idle_full;}
